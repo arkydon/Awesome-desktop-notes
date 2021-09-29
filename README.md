@@ -18,26 +18,26 @@
 * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) - Collaboration and documentation platform. Used by tens of thousands of websites and thousands of companies and organizations. It powers Wikipedia and also the website.
 
 #### General
-* [Mempad](https://www.horstmuc.de/wmem.htm) - plain text outliner and note taking program with a structured index. All pages are stored in a single file. `windows`
-* [Simplenote](http://simplenote.com) :iphone: - Available for iOS, Android, Mac, Windows, Linux, and the web and supports Markdown.
+* [Mempad](https://www.horstmuc.de/wmem.htm) - Plain text outliner and note taking program with a structured index. All pages are stored in a single file. `windows`
+* [Simplenote](http://simplenote.com) :iphone: - Markdown, Tag oraginized.
 * [Cherrytree](http://www.giuspen.com/cherrytree) - A hierarchical note-taking app, featuring rich text and syntax highlighting.
-* [CodiMD](https://github.com/hackmdio/codimd) - Realtime collaborative markdown notes on all platforms.
-* [Laverna](https://laverna.cc) -  JavaScript note-taking web application with a Markdown editor and encryption support. It's built to be an open source alternative to Evernote.
+
+* [Laverna](https://laverna.cc) - JavaScript note-taking web application with a Markdown editor and encryption support. It's built to be an open source alternative to Evernote.
 * [OneNote](https://www.onenote.com) - Microsoft OneNote is a program for free-form information gathering and multi-user collaboration.
 * [Zoho Notebook](https://www.zoho.com/notebook) - Mobile/Web/Desktop app to take multiple forms of notes. 
-* [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - desktop note-taking application for Linux, Windows, and Mac OS X.
+* [Tomboy-ng](https://github.com/tomboy-notes/tomboy-ng/wiki) - desktop note-taking application for Linux, Windows, and Mac OS X.
 * [wridea](http://wridea.com) - web service to organize and improve ideas and notes by sharing with friends and necessary tools.
+* [CodiMD](https://github.com/hackmdio/codimd) - Realtime collaborative markdown notes.
 * [Obsidian](https://obsidian.md/) - Free for personal use app, that works on top of a local folder of plain text Markdown files.
-* [Notable](https://notable.app/) - Free app for simple note taking.
+* [Notable](https://notable.app/) - Markdown editor based, Tag organized, plus you can write KaTeX expressions, Mermaid diagrams
 * [Joplin](https://joplinapp.org/) - Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. Supports import from Evernote.
 * [Zettlr](https://www.zettlr.com/) - Markdown Editor for the 21st century.
-* [Dendron](https://github.com/dendronhq/dendron) - Local-first, markdown based, hierarchical built on top of VSCode and friends.
 * [Foonote](https://github.com/quark-zju/FooNote) - Lightweight, portable, Git syncing tree-structured note-taking companion.
 * [QOwnNotes](https://github.com/pbek/QOwnNotes) - Plain-text file and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 * [Noteledge](https://www.kdanmobile.com/noteledge) - NoteLedge is a digital notebook for designers and content creators to capture inspiration, make mood boards, and accelerate your creative process
 * [Tagspaces Lite](https://www.tagspaces.org/products/lite/) - Privacy aware, open source, cross-platform file browser.
 It helps to organize your files and folders with tags and colors.
-
+* [Dendron](https://github.com/dendronhq/dendron) - Local-first, markdown based, hierarchical built on top of VSCode and friends.
 #### Knowledge Graph style
 * [Logseq](https://github.com/logseq/logseq) - knowledge management and collaboration. It focuses on privacy, longevity, and user control. Plain text files and we currently support both Markdown and Emacs Org mode (more to be added soon).
 * [Athens](https://github.com/athensresearch/athens) - knowledge graph for research and notetaking. Athens is open-source, private, extensible, and community-driven.
