@@ -1,4 +1,4 @@
-# Awesome Desktop Note Applications [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# List of awesome Desktop Note Applications [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A list of awesome desktop note-taking applications.
 
