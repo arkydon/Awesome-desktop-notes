@@ -6,7 +6,7 @@
 
 * [Free](#-free)
 * [Freemium](#-freemium)
-* [Contributing](#-contributing)
+* [Contribution](#-contribution)
 
 ## [↑](#-contents) Free
 
@@ -61,6 +61,6 @@ It helps to organize your files and folders with tags and colors.
 * [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
 * [Nuclino](https://www.nuclino.com/) - Nuclino brings all your team's knowledge, docs, and projects together in one place. 
 
-## [↑](#-contents) Contributing
+## [↑](#-contents) Contribution
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Please contribute some applications that are not listed here.
