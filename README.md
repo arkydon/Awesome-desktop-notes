@@ -44,6 +44,7 @@ It helps to organize your files and folders with tags and colors.
 * [Foam](https://foambubble.github.io/) - Personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
 * [Calculist](https://calculist.io/) - the open source thinking tool for problem solvers.
 * [Trilium notes](https://github.com/zadam/trilium) - Powerfull app focused on building personal knowledge base. WYSIWYG.
+* [Resoph Notes](https://www.resoph.com/ResophNotes/Welcome.html) Low resource usage. (No longer updated)
 
 ## [↑](#-contents) Freemium
 
