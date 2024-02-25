@@ -59,7 +59,8 @@ It helps to organize your files and folders with tags and colors.
 * [Workflowy](https://workflowy.com/downloads/windows/) - WorkFlowy is a single list that can contain infinite lists inside it. It’s a more powerful, easier way to organize all the information in your life.
 * [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Mac or iPhone app with lots of features that can handle many files.
 * [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
-* [Nuclino](https://www.nuclino.com/) - Nuclino brings all your team's knowledge, docs, and projects together in one place. 
+* [Nuclino](https://www.nuclino.com/) - Nuclino brings all your team's knowledge, docs, and projects together in one place.
+* [Cinta Notes](https://cintanotes.com/) - Full text search, Notebooks
 
 ## [↑](#-contents) Contribution
 
