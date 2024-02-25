@@ -22,7 +22,7 @@
 * [Simplenote](http://simplenote.com) :iphone: - Markdown, Tag oraginized.
 * [Cherrytree](http://www.giuspen.com/cherrytree) - A hierarchical note-taking app, featuring rich text and syntax highlighting.
 
-* [Laverna](https://laverna.cc) - JavaScript note-taking web application with a Markdown editor and encryption support. It's built to be an open source alternative to Evernote.
+* [Laverna](https://laverna.cc) - JavaScript note-taking web application with Markdown and encryption support. Open source alternative to Evernote. 
 * [OneNote](https://www.onenote.com) - Microsoft OneNote is a program for free-form information gathering and multi-user collaboration.
 * [Zoho Notebook](https://www.zoho.com/notebook) - Mobile/Web/Desktop app to take multiple forms of notes. 
 * [Tomboy-ng](https://github.com/tomboy-notes/tomboy-ng/wiki) - desktop note-taking application for Linux, Windows, and Mac OS X.
@@ -42,7 +42,7 @@ It helps to organize your files and folders with tags and colors.
  
 #### Knowledge Graph style
 * [Logseq](https://github.com/logseq/logseq) - knowledge management and collaboration. It focuses on privacy, longevity, and user control. Plain text files and we currently support both Markdown and Emacs Org mode (more to be added soon).
-* [Athens](https://github.com/athensresearch/athens) - knowledge graph for research and notetaking. Athens is open-source, private, extensible, and community-driven.
+* [Athens](https://github.com/athensresearch/athens) - knowledge graph for research and notetaking. Athens is open-source, private, extensible, and community-driven. (No longer maintained)
 * [Foam](https://foambubble.github.io/) - Personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
 * [Calculist](https://calculist.io/) - the open source thinking tool for problem solvers.
 * [Trilium notes](https://github.com/zadam/trilium) - Powerfull app focused on building personal knowledge base. WYSIWYG.
