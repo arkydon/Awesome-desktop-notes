@@ -38,13 +38,15 @@
 * [Tagspaces Lite](https://www.tagspaces.org/products/lite/) - Privacy aware, open source, cross-platform file browser.
 It helps to organize your files and folders with tags and colors.
 * [Dendron](https://github.com/dendronhq/dendron) - Local-first, markdown based, hierarchical built on top of VSCode and friends.
+* [Resoph Notes](https://www.resoph.com/ResophNotes/Welcome.html) Low resource usage. (No longer updated)
+ 
 #### Knowledge Graph style
 * [Logseq](https://github.com/logseq/logseq) - knowledge management and collaboration. It focuses on privacy, longevity, and user control. Plain text files and we currently support both Markdown and Emacs Org mode (more to be added soon).
 * [Athens](https://github.com/athensresearch/athens) - knowledge graph for research and notetaking. Athens is open-source, private, extensible, and community-driven.
 * [Foam](https://foambubble.github.io/) - Personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
 * [Calculist](https://calculist.io/) - the open source thinking tool for problem solvers.
 * [Trilium notes](https://github.com/zadam/trilium) - Powerfull app focused on building personal knowledge base. WYSIWYG.
-* [Resoph Notes](https://www.resoph.com/ResophNotes/Welcome.html) Low resource usage. (No longer updated)
+
 
 ## [↑](#-contents) Freemium
 
