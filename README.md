@@ -47,6 +47,8 @@ It helps to organize your files and folders with tags and colors.
 * [Calculist](https://calculist.io/) - the open source thinking tool for problem solvers.
 * [Trilium notes](https://github.com/zadam/trilium) - Powerfull app focused on building personal knowledge base. WYSIWYG.
 
+#### Terminal
+* [nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 
 ## [↑](#-contents) Freemium
 
