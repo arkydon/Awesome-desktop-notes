@@ -54,8 +54,9 @@ It helps to organize your files and folders with tags and colors.
 
 #### Wikistyle
 * [Notion](https://www.notion.so/product) - Collabarative, Customizable, Crossplatform.
-
-
+* [Appflowy] - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+* [Siyuan](https://b3log.org/siyuan/en/) - Privacy-first personal knowledge management system, offline support, end-to-end encrypted data sync, cross-platform. Fuse blocks, outlines, and bidirectional links to refactor your thinking.
+ 
 #### General
 * [Turtl](https://turtlapp.com/) - Whether it's bookmarks or passwords, files or shopping lists.Turtl organizes it all and makes it easy to find later. Sync across your devices. Leave nothing behind.
 * [HackMD](https://hackmd.io) - HackMD helps developers write better documents and build active communities with open collaboration.
@@ -65,7 +66,6 @@ It helps to organize your files and folders with tags and colors.
 * [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Mac or iPhone app with lots of features that can handle many files.
 * [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
 * [Nuclino](https://www.nuclino.com/) - Nuclino brings all your team's knowledge, docs, and projects together in one place.
-* [Siyuan](https://b3log.org/siyuan/en/) - Privacy-first personal knowledge management system, offline support, end-to-end encrypted data sync, cross-platform. Fuse blocks, outlines, and bidirectional links to refactor your thinking.
 * [Cinta Notes](https://cintanotes.com/) - Full text search, Notebooks
 
 ## [↑](#-contents) Contribution
