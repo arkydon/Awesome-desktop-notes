@@ -54,7 +54,7 @@ It helps to organize your files and folders with tags and colors.
 
 #### Wikistyle
 * [Notion](https://www.notion.so/product) - Collabarative, Customizable, Crossplatform.
-* [Appflowy] - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+* [Appflowy](https://appflowy.io/) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 * [Siyuan](https://b3log.org/siyuan/en/) - Privacy-first personal knowledge management system, offline support, end-to-end encrypted data sync, cross-platform. Fuse blocks, outlines, and bidirectional links to refactor your thinking.
  
 #### General
