@@ -39,6 +39,7 @@
 It helps to organize your files and folders with tags and colors.
 * [Dendron](https://github.com/dendronhq/dendron) - Local-first, markdown based, hierarchical built on top of VSCode and friends.
 * [Resoph Notes](https://www.resoph.com/ResophNotes/Welcome.html) Low resource usage. (No longer updated)
+* [Tangent Notes](https://www.tangentnotes.com/) - Open source, local-first, with live markdown, sliding panes, two way links and more. Designed to let you write the way you think.
  
 #### Knowledge Graph style
 * [Logseq](https://github.com/logseq/logseq) - knowledge management and collaboration. It focuses on privacy, longevity, and user control. Plain text files and we currently support both Markdown and Emacs Org mode (more to be added soon).
