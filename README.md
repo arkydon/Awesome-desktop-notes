@@ -19,7 +19,7 @@
 
 #### General
 * [Mempad](https://www.horstmuc.de/wmem.htm) - Plain text outliner and note taking program with a structured index. All pages are stored in a single file. `windows`
-* [Simplenote](http://simplenote.com) :iphone: - Markdown, Tag oraginized.
+* [Simplenote](http://simplenote.com) :iphone: - Markdown, Tag organized.
 * [Cherrytree](http://www.giuspen.com/cherrytree) - A hierarchical note-taking app, featuring rich text and syntax highlighting.
 
 * [Laverna](https://laverna.cc) - JavaScript note-taking web application with Markdown and encryption support. Open source alternative to Evernote. 
