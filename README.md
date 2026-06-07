@@ -43,6 +43,7 @@ It helps to organize your files and folders with tags and colors.
 * [Perpetual Notes](https://www.enselsoftware.com/product/PerpetualNotes.html) - Save notes in RTF with rich text formatting and images, meeting notes, web pages, projects, travel plan, research drafts.
 * [Goodnotes](https://www.goodnotes.com/) - Write, type, and collaborate — all in one intelligent place
 * [qnote](https://github.com/Omibranch/qnote) - Minimal frameless desktop notepad for Linux with Markdown support, PDF export via Typst, OCR, and automatic version history. Built with Tauri 2. Available on AUR.
+* [Snoq](https://snoq.io) - Native, offline, AES-256 encrypted note-taking app for Windows.
  
 #### Knowledge Graph style
 * [Logseq](https://github.com/logseq/logseq) - knowledge management and collaboration. It focuses on privacy, longevity, and user control. Plain text files and we currently support both Markdown and Emacs Org mode (more to be added soon).
