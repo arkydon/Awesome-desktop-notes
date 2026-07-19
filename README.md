@@ -17,6 +17,8 @@
 
 * [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) - Collaboration and documentation platform. Used by tens of thousands of websites and thousands of companies and organizations. It powers Wikipedia and also the website.
 
+* [DokuWiki](https://www.dokuwiki.org/dokuwiki -  Open Source wiki software that doesn't require a database.
+  
 #### General
 * [Mempad](https://www.horstmuc.de/wmem.htm) - Plain text outliner and note taking program with a structured index. All pages are stored in a single file. `windows`
 * [Simplenote](http://simplenote.com) :iphone: - Markdown, Tag organized.
