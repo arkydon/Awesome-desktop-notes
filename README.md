@@ -1,3 +1,5 @@
+
+
 # List of awesome Desktop Note Applications [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A list of awesome desktop note-taking applications.
@@ -60,7 +62,7 @@ It helps to organize your files and folders with tags and colors.
 ## [↑](#-contents) Freemium
 
 #### Wikistyle
-* [Notion](https://www.notion.so/product) - Collabarative, Customizable, Crossplatform.
+* [Notion](https://www.notion.so/product) - Collaborative, Customizable, Crossplatform.
 * [Appflowy](https://appflowy.io/) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 * [Siyuan](https://b3log.org/siyuan/en/) - Privacy-first personal knowledge management system, offline support, end-to-end encrypted data sync, cross-platform. Fuse blocks, outlines, and bidirectional links to refactor your thinking.
  
