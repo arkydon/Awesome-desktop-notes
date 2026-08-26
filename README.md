@@ -36,6 +36,7 @@
 * [Notable](https://notable.app/) - Markdown editor based, Tag organized, plus you can write KaTeX expressions, Mermaid diagrams
 * [Joplin](https://joplinapp.org/) - Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. Supports import from Evernote.
 * [Zettlr](https://www.zettlr.com/) - Markdown Editor for the 21st century.
+* [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace with notes, tasks and AI chat, stored as plain Markdown files.
 * [Foonote](https://github.com/quark-zju/FooNote) - Lightweight, portable, Git syncing tree-structured note-taking companion.
 * [QOwnNotes](https://github.com/pbek/QOwnNotes) - Plain-text file and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 * [Noteledge](https://www.kdanmobile.com/noteledge) - NoteLedge is a digital notebook for designers and content creators to capture inspiration, make mood boards, and accelerate your creative process
