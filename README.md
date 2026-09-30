@@ -57,6 +57,7 @@ It helps to organize your files and folders with tags and colors.
 * [Trilium notes](https://github.com/zadam/trilium) - Powerfull app focused on building personal knowledge base. WYSIWYG.
 
 #### Terminal
+* [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust CLI for encrypted, append-only notes, with device sync and MCP access through scoped, expiring grants.
 * [nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 
 ## [↑](#-contents) Freemium
