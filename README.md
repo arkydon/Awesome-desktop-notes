@@ -45,6 +45,7 @@ It helps to organize your files and folders with tags and colors.
 * [Resoph Notes](https://www.resoph.com/ResophNotes/Welcome.html) Low resource usage. (No longer updated)
 * [Tangent Notes](https://www.tangentnotes.com/) - Open source, local-first, with live markdown, sliding panes, two way links and more. Designed to let you write the way you think.
 * [Perpetual Notes](https://www.enselsoftware.com/product/PerpetualNotes.html) - Save notes in RTF with rich text formatting and images, meeting notes, web pages, projects, travel plan, research drafts.
+* [PinSlip](https://pinslip.app/) - Capture now, organize later. Local-first sticky note desktop app with Markdown support, Git sync, and built-in MCP server.
 * [Goodnotes](https://www.goodnotes.com/) - Write, type, and collaborate — all in one intelligent place
 * [qnote](https://github.com/Omibranch/qnote) - Minimal frameless desktop notepad for Linux with Markdown support, PDF export via Typst, OCR, and automatic version history. Built with Tauri 2. Available on AUR.
 * [Snoq](https://snoq.io) - Native, offline, AES-256 encrypted note-taking app for Windows.
