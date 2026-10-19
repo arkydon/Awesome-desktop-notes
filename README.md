@@ -22,6 +22,7 @@
 * [DokuWiki](https://www.dokuwiki.org/dokuwiki) -  Open Source wiki software that doesn't require a database.
   
 #### General
+* [Madhav](https://madhav.app) - Free local-first desktop sidebar for Markdown notes, tasks, ideas, bookmarks, and reminders, with optional Telegram sync on Windows, macOS, and Linux.
 * [Mempad](https://www.horstmuc.de/wmem.htm) - Plain text outliner and note taking program with a structured index. All pages are stored in a single file. `windows`
 * [Simplenote](http://simplenote.com) :iphone: - Markdown, Tag organized.
 * [Cherrytree](http://www.giuspen.com/cherrytree) - A hierarchical note-taking app, featuring rich text and syntax highlighting.
