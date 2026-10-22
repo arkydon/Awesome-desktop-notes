@@ -1,4 +1,4 @@
-
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-looking%20for%20maintainer-orange.svg)](#)
 
 # List of awesome Desktop Note Applications [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
