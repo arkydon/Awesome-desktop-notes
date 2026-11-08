@@ -22,6 +22,7 @@
 * [DokuWiki](https://www.dokuwiki.org/dokuwiki) -  Open Source wiki software that doesn't require a database.
   
 #### General
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS built in SwiftUI.
 * [Mempad](https://www.horstmuc.de/wmem.htm) - Plain text outliner and note taking program with a structured index. All pages are stored in a single file. `windows`
 * [Simplenote](http://simplenote.com) :iphone: - Markdown, Tag organized.
 * [Cherrytree](http://www.giuspen.com/cherrytree) - A hierarchical note-taking app, featuring rich text and syntax highlighting.
