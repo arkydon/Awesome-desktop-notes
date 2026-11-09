@@ -11,6 +11,7 @@
 * [Contribution](#-contribution)
 
 ## [↑](#-contents) Free
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Minimal native macOS desktop corner companion showing current track & album art.
 
 #### Wikistyle
 * [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Zim is a graphical text editor used to maintain a collection of wiki pages.
