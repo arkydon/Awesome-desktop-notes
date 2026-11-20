@@ -78,6 +78,7 @@ It helps to organize your files and folders with tags and colors.
 * [Nuclino](https://www.nuclino.com/) - Nuclino brings all your team's knowledge, docs, and projects together in one place.
 * [Cinta Notes](https://cintanotes.com/) - Full text search, Notebooks
 * [Margin](https://gomargin.app) - Local-first Markdown notes for macOS. Plain .md files in a folder you choose, separate spaces for work and personal, and AI actions that only run when you invoke them. In development; waitlist open.
+* [LocArk](https://locark.com/encrypted-notes/) - Free offline Markdown notes in a locally encrypted workspace on macOS and Windows, also available on iOS and Android. Optional Pro unlocks creating kanban boards and mind maps.
 
 ## [↑](#-contents) Contribution
 
